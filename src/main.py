@@ -1,4 +1,5 @@
 print("main")
 print("practice1브랜치에서 작업 시작")
-int x = 10
-x
+print("prac2브랜치입니다")
+print("브랜치2입니다.")
+print("practice2 작업 추가")
