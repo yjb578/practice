@@ -1,3 +1,6 @@
 print("main")
 print("practice1브랜치에서 작업 시작")
-print("main작업 추가입니다~~")
+print("prac2브랜치입니다")
+print("브랜치2입니다.")
+
+
